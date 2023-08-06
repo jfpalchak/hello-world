@@ -1,27 +1,30 @@
 # _Hello World_
 
-#### By **Seth and Joey**
+#### By **Seth Gonzales + Joey Palchak**
 
-#### 
+#### Demonstration site with basic HTML, used to practice git commands.
 
 ## Technologies Used
 
-* html
+* HTML
 
 ## Description
 
 The purpose of this file is to practice using git, git commands, github, and practicing using a git workflow. 
 
+Upon viewing hello-world.html, the user will see a list of "Hello, world!" written in multiple different languages.
+
 ## Setup/Installation Requirements
 
-* Download hello-world to your working directory, open using VS Code and view your file using Live Server. 
+* Clone hello-world to your working directory.
+* Open hello-world.html in your browser.
 
 ## Known Bugs
 
-* Spider infestation
+* No known bugs.
 
 ## License
 
-Send complaints to ... an open fire.
+MIT License
 
-Copyright (c) 8/1/2023 Seth and Joey inc.
+Copyright (c) 8/1/2023 Seth Gonzales, Joey Palchak
